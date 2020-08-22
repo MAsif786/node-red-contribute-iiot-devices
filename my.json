@@ -1,0 +1,15 @@
+{
+	"reg_blocks" : [
+		{
+	     "fc": 3,
+	     "address": 10,
+	     "quantity": 2
+	 	},
+	 	{
+	     "fc": 3,
+	     "address": 20,
+	     "quantity": 2
+	 	}
+	]
+
+}
